@@ -69,6 +69,15 @@ IntegratedLaptopInventorySystem/
 
 ---
 
+## Technologies Used
+
+- Java
+- Object-Oriented Programming (OOP)
+- File Handling
+- Collections Framework
+- Exception Handling
+- Eclipse IDE / VS Code
+
 ## How to Run
 
 1. Open the project in Eclipse or VS Code
@@ -81,15 +90,6 @@ IntegratedLaptopInventorySystem/
 ```bash
 javac -d out src/main/Main.java src/main/model/*.java src/main/exception/*.java src/main/service/*.java src/main/ui/*.java src/main/util/*.java
 ```
-
-## Technologies Used
-
-- Java
-- Object-Oriented Programming (OOP)
-- File Handling
-- Collections Framework
-- Exception Handling
-- Eclipse IDE / VS Code
 
 
 
