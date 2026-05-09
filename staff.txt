@@ -1,0 +1,2 @@
+S001,john_staff,staff123,john@beforelightning.com,STAFF,Warehouse,MORNING
+S002,sara_staff,staff456,sara@beforelightning.com,STAFF,Dispatch,EVENING

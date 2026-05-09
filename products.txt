@@ -1,0 +1,8 @@
+P001,Dell XPS 13,LAPTOP,Intel i7 16GB RAM 512GB SSD,1299.99,10
+P002,HP Spectre x360,LAPTOP,Intel i5 8GB RAM 256GB SSD,999.99,8
+P003,Logitech MX Master 3,ACCESSORY,Wireless ergonomic mouse,89.99,25
+P004,Apple Magic Keyboard,ACCESSORY,Wireless keyboard for Mac,129.99,15
+P005,Samsung 27in Monitor,ACCESSORY,4K UHD IPS Display,399.99,12
+P006,ASUS ROG Zephyrus,LAPTOP,AMD Ryzen 9 32GB RAM 1TB SSD,1799.99,5
+P007,USB-C Hub 7-in-1,ACCESSORY,Multi-port USB-C hub,49.99,30
+P008,Lenovo ThinkPad E15,LAPTOP,Intel i5 16GB RAM 512GB SSD,849.99,7

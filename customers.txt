@@ -1,0 +1,4 @@
+C001,alice,alice123,alice@email.com,CUSTOMER,123 Main St,500.0
+C002,bob,bob123,bob@email.com,CUSTOMER,456 Oak Ave,1200.0
+C003,kfhg,fgjv,jfcg@hcfvmh.com,CUSTOMER,jyvghb,1000.0
+C004,rajyy,wertyui,vinnu@gmail.com,CUSTOMER,gadwal,1000.0
