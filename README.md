@@ -1,4 +1,4 @@
-# Before Lightning - Laptop & Accessories Store
+# Integrated Laptop Inventory & Sales System
 ### OOP Case Study | Java Console Application | Semester 2 B.Tech CSE
 
 ---
@@ -13,7 +13,7 @@ use cases. Built using core OOP principles, custom exception handling, and file-
 ## Project Structure
 
 ```
-BeforeLightning/
+IntegratedLaptopInventorySystem/
 ├── src/
 │   └── main/
 │       ├── Main.java                          ← Entry point
